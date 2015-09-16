@@ -13,4 +13,6 @@ Filter sites that provide online consulting
 * Click on "Add a different subscription"
 ![step5](img/step5.png)
 * Write in the input form:
+* * ConsultBlock
+* * https://raw.githubusercontent.com/devmru/ConsultBlock/master/ConsultBlock.txt
 ![step6](img/step6.png)
