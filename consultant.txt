@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Title: ConsultBlock
+! Homepage:https://github.com/devmru/ConsultBlock
+! Expires: 10 days
+! Checksum:
+! Version: 1
+! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
+! Project owners: /dev/m
 http://jivosite.com/*
 http://cdn.jivosite.com/*
 http://code.jivosite.com/*
